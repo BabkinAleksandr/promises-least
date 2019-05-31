@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BabkinAleksandr/promiseSome/issues"
   },
-  "homepage": "https://github.com/BabkinAleksandr/promiseSome#readme"
+  "homepage": "https://github.com/BabkinAleksandr/promiseSome#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
