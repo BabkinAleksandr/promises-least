@@ -1,0 +1,19 @@
+{
+  "name": "promise-some",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabkinAleksandr/promiseSome.git"
+  },
+  "author": "Babkin Aleksander<a.i.babkin@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BabkinAleksandr/promiseSome/issues"
+  },
+  "homepage": "https://github.com/BabkinAleksandr/promiseSome#readme"
+}
