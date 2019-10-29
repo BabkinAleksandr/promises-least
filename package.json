@@ -1,21 +1,21 @@
 {
-  "name": "promise-some",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "name": "promises-least",
+  "version": "1.0.0",
+  "description": "simple tool for checking for promises resolving",
+  "main": "./promisesLeast.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --no-cache"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BabkinAleksandr/promiseSome.git"
+    "url": "git+https://github.com/BabkinAleksandr/promises-least.git"
   },
   "author": "Babkin Aleksander<a.i.babkin@yandex.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BabkinAleksandr/promiseSome/issues"
+    "url": "https://github.com/BabkinAleksandr/promises-least/issues"
   },
-  "homepage": "https://github.com/BabkinAleksandr/promiseSome#readme",
+  "homepage": "https://github.com/BabkinAleksandr/promises-least#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   }
